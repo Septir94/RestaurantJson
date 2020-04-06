@@ -1,7 +1,18 @@
-{
+{"menu":[{
     "id":1,
     "no":"001",
     "image":"https://i.pravatar.cc/300",
     "menu":{"Appetizer":"Pudding","MainCourse":"Steak","Dessert":"Just Manggow"},
     "price":200000
+},
+{
+    "id":2,
+    "no":"002",
+    "image":"https://i.pravatar.cc/300",
+    "menu":{"Appetizer":"Pudding","MainCourse":"Steak","Dessert":"Just Manggow"},
+    "price":300000
+}
+]
+
+
 }
