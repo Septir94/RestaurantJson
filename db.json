@@ -1,19 +1,61 @@
 {
     "menu":[
         {
-    "id":1,
-    "no":"001",
-    "image":"https://i.pravatar.cc/300",
-    "menu":{"Appetizer":"Pudding","MainCourse":"Steak","Dessert":"Just Manggow"},
-    "price":200000
-},
-    {
-        "id":2,
-        "no":"002",
-        "image":"https://i.pravatar.cc/300",
-        "menu":{"Appetizer":"Pudding","MainCourse":"Steak","Dessert":"Just Manggow"},
-        "price":300000
-    }
+            "id":1,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Steak",
+            "price":200000,
+            "priceDisplay":"Rp. 200.000,-"
+        },
+        {
+            "id":2,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Zupa Sup",
+            "price":30000,
+            "priceDisplay":"Rp. 30.000,-"
+        },
+        {
+            "id":3,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Cumi Asin",
+            "price":50000,
+            "priceDisplay":"Rp. 50.000,-"
+        },
+        {
+            "id":4,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Burger",
+            "price":50000,
+            "priceDisplay":"Rp. 50.000,-"
+        },
+        {
+            "id":5,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Lemon Squash",
+            "price":20000,
+            "priceDisplay":"Rp. 20.000,-"
+        },
+        {
+            "id":6,
+            "image":"https://i.pravatar.cc/300",
+            "name":"ES Teh",
+            "price":20000,
+            "priceDisplay":"Rp. 20.000,-"
+        },
+        {
+            "id":7,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Tttopoki",
+            "price":60000,
+            "priceDisplay":"Rp. 50.000,-"
+        },
+        {
+            "id":8,
+            "image":"https://i.pravatar.cc/300",
+            "name":"Shabu-shabu",
+            "price":100000,
+            "priceDisplay":"Rp. 100.000,-"
+        }
 ]
 
 
